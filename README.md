@@ -1,6 +1,19 @@
 ## Management System
 본 프로젝트는 React 튜터리얼 목적으로 만들어진 고객 관리 시스템(Managment System) 입니다.
 
+npx create-react-app management
+
+repository 생성 후
+git remote add origin https://github.com/hunojung/React-Management-Tutorial.git
+git push --set-upstream origin master
+
+project 실행때
+yarn start
+
+오류가 발생하면
+npm install -g yarn 후 다시
+yarn start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
