@@ -16,6 +16,9 @@ project 실행 -> yarn start
 material-ui/core/Table 속성을 사용하기 위해 설치
 npm install @material-ui/core
 
+props 는 변경될 수 없는 데이터를 다룰 때
+
+state 는 변경될 수 있는 데이터를 다룰 때
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
