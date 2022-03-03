@@ -1,6 +1,8 @@
 ## Management System
 본 프로젝트는 React 튜터리얼 목적으로 만들어진 고객 관리 시스템(Managment System) 입니다.
 
+참고 유튜브 : [https://www.youtube.com/watch?v=_yEH9mczm3g&list=PLRx0vPvlEmdD1pSqKZiTihy5rplxecNpz&index=1](https://www.youtube.com/watch?v=_yEH9mczm3g&list=PLRx0vPvlEmdD1pSqKZiTihy5rplxecNpz&index=1)
+
 react 프로젝트 생성 -> npx create-react-app management
 
 repository 생성 후
