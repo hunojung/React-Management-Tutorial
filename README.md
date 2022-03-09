@@ -12,5 +12,5 @@ npm install --savve body-parser
 
 user / qwer1234
 HeidiSQL 툴을 사용
-
+ 
 호스트명 / IP 란에 AWS 에 있는 엔드포인트 입력
